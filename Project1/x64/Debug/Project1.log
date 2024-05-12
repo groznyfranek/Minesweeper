@@ -1,0 +1,22 @@
+﻿  board.cpp
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\board.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\board.cpp(161,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  button.cpp
+  face.cpp
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\face.cpp(13,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\face.cpp(13,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,54): warning C4244:         with
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,54): warning C4244:         [
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,54): warning C4244:             T=float
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,54): warning C4244:         ]
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,46): warning C4244:         with
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,46): warning C4244:         [
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,46): warning C4244:             T=float
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(21,46): warning C4244:         ]
+C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\Project1\game.cpp(127,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Uzytkownik\Desktop\programowanie\sfml saper\Project1\x64\Debug\Project1.exe
